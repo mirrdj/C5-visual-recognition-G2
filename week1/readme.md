@@ -2,7 +2,7 @@
 ## Group 2 ##
 
 **Group members:**
-* Goio García
-* Iker García
+* Goio García Moro
+* Iker García Fernández
 * Miruna-Diana Jarda
-* Xavi Micó
+* Xavi Micó Pérez
