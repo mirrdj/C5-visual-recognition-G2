@@ -9,11 +9,6 @@ import wandb
 DATASET_DIR = '/ghome/mcv/datasets/C3/MIT_small_train_1'
 DATASET_TEST = '/ghome/mcv/datasets/C3/MIT_large_train'
 
-# Put your key
-# wandb.login(key='4c0b25a1f87331e99edadbaa2cf9568a452224ff') #GOIO
-wandb.login(key='4127c8a2b851657f629b6f8f83ddc2e3415493f2')  # IKER
-# wandb.login(key='50315889c64d6cfeba1b57dc714112418a50e134') #Xavi
-
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(device)
 
