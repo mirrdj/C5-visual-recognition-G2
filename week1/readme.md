@@ -8,8 +8,8 @@
 * Xavi Micó Pérez - xavier.mico.perez@gmail.com
 
 **Overleaf**
-https://www.overleaf.com/read/nkvrrpfjvkcd#5515d9
+[link to report](https://www.overleaf.com/read/nkvrrpfjvkcd#5515d9)
 
 **Presentation links**
 ----------------------
-Week 1: [link](https://www.canva.com/design/DAF9zKCwxqk/Nj-uTwDky7idcXGiRuz1Sw/edit?utm_content=DAF9zKCwxqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Week 1: [link to presentation](https://www.canva.com/design/DAF9zKCwxqk/Nj-uTwDky7idcXGiRuz1Sw/edit?utm_content=DAF9zKCwxqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
