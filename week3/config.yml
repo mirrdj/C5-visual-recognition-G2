@@ -1,0 +1,27 @@
+DATASET_DIR: '/ghome/mcv/datasets/C5/COCO'
+DATASET_TRAIN: '/ghome/mcv/datasets/C5/COCO/train2014'
+DATASET_TEST: '/ghome/mcv/datasets/C5/COCO/val2014'
+
+WEIGHTS_DIR: './weights'
+
+NUM_CLASSES: 8
+
+class_to_int:
+  Opencountry: 0
+  coast: 1
+  forest: 2
+  highway: 3
+  inside_city: 4
+  mountain: 5
+  street: 6
+  tallbuilding: 7
+
+int_to_class:
+  0: Opencountry
+  1: coast
+  2: forest
+  3: highway
+  4: inside_city
+  5: mountain
+  6: street
+  7: tallbuilding
